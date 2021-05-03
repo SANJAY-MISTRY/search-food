@@ -6,8 +6,8 @@ import Nutrition from './nutrition';
 
 ReactDOM.render(
   <React.StrictMode>
-    {/* <App /> */}
-    <Nutrition />
+    <App />
+    {/* <Nutrition /> */}
   </React.StrictMode>,
   document.getElementById('root')
 );
