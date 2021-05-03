@@ -1,4 +1,37 @@
-.App {
+.jumbotron{
+  background-color: aquamarine;
+  color: orange;
+  text-align: center;
+  padding: 50px 0px;
+}
+.foodicon{
+  font-size: 50px;
+}
+.brandicon{
+  font-size: 60px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +68,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
